@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keseharian-ai.github.io/memasak-sama-vivi/sitemap.xml
